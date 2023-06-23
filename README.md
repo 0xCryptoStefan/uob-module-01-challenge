@@ -18,15 +18,19 @@ SO THAT our own site is optimized for search engines
 
 This has been developed to meet the following Acceptance Criteria:
 
-- Semantic HTML elements can be found throughout the source code
-- HTML elements follow a logical structure independent of styling and positioning
-- Image and icon elements contain accessible `alt` attributes
-- Heading attributes fall in sequential order
-- Title elements contain a concise, descriptive title
+| Acceptance Criteria                                                             | Solution                                                                                          |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Semantic HTML elements can be found throughout the source code                  | Use of semantic elements (`<header>`, `<main>`, `<section>`) to replace generic `<div>` elements. |
+| HTML elements follow a logical structure independent of styling and positioning |                                                                                                   |
+| Image and icon elements contain accessible `alt` attributes                     |                                                                                                   |
+| Heading attributes fall in sequential order                                     |                                                                                                   |
+| Title elements contain a concise, descriptive title                             | Page title updated to reflect an accurate description of the page.                                |
 
 ## Learning Outcome
 
 This module made me consider the fundamentals of HTML and CSS again, and to consider accessibility from the outset of building any website or application.
+
+I also reminded myself how to construct tables in markdown notation.
 
 ## Installation
 
