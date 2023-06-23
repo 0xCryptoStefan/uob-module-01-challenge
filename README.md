@@ -20,13 +20,13 @@ SO THAT our own site is optimized for search engines
 
 This has been developed to meet the following Acceptance Criteria:
 
-| Acceptance Criteria                                                             | Solution                                                                                                                         |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Semantic HTML elements can be found throughout the source code                  | Use of semantic elements (`<header>`, `<nav>` `<main>`, `<aside>`, `<section>`) to replace generic `<div>` elements.             |
-| HTML elements follow a logical structure independent of styling and positioning | HTML elements have been updated to use semantic elements and styling elements have been separated into consolidated CSS classes. |
-| Image and icon elements contain accessible `alt` attributes                     | Added `alt` attributes to all images and icons.                                                                                  |
-| Heading attributes fall in sequential order                                     | Heading elements are in sequential order. Footer heading changed to h4 to reduce priority in document flow.                      |
-| Title elements contain a concise, descriptive title                             | Page title updated to reflect an accurate description of the page.                                                               |
+| Acceptance Criteria                                                             | Solution                                                                                                                          |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Semantic HTML elements can be found throughout the source code                  | Use of semantic elements (`<header>`, `<nav>`, `<main>`, `<aside>`, `<section>`, `<footer>`) to replace generic `<div>` elements. |
+| HTML elements follow a logical structure independent of styling and positioning | HTML elements have been updated to use semantic elements and styling elements have been separated into consolidated CSS classes.  |
+| Image and icon elements contain accessible `alt` attributes                     | Added `alt` attributes to all images and icons.                                                                                   |
+| Heading attributes fall in sequential order                                     | Heading elements are in sequential order. Footer heading changed to h4 to reduce priority in document flow.                       |
+| Title elements contain a concise, descriptive title                             | Page title updated to reflect an accurate description of the page.                                                                |
 
 ## Learning Outcome
 
@@ -34,12 +34,13 @@ This module made me consider the fundamentals of HTML and CSS again, and to cons
 
 I also reminded myself how to construct tables in markdown notation.
 
-## Learning Resources
+## Resources Used
 
 In completing this challenge exercise, I made use of the following resources:
 
 - [W3Schools: HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Semantics in HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
+- [W3C Markup Validator Service](https://validator.w3.org/)
 
 ## Mark Scheme Compliance
 
