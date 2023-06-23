@@ -24,7 +24,7 @@ This has been developed to meet the following Acceptance Criteria:
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Semantic HTML elements can be found throughout the source code                  | Use of semantic elements (`<header>`, `<nav>` `<main>`, `<aside>`, `<section>`) to replace generic `<div>` elements. |
 | HTML elements follow a logical structure independent of styling and positioning |                                                                                                                      |
-| Image and icon elements contain accessible `alt` attributes                     |                                                                                                                      |
+| Image and icon elements contain accessible `alt` attributes                     | Added `alt` attributes to all images and icons.                                                                      |
 | Heading attributes fall in sequential order                                     |                                                                                                                      |
 | Title elements contain a concise, descriptive title                             | Page title updated to reflect an accurate description of the page.                                                   |
 
@@ -49,11 +49,11 @@ N/A
 
 ### Technical Acceptance Criteria
 
-| Item                                                                                                    | Evidence                                                                           |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Application's links all function correctly.                                                             | Defective link fixed by adding ID attribute to associated intended linked element. |
-| Application's CSS selectors and properties are consolidated and organized to follow semantic structure. |                                                                                    |
-| Application's CSS file is properly commented.                                                           |                                                                                    |
+| Item                                                                                                    | Evidence                                                                                                                |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Application's links all function correctly.                                                             | Defective link fixed by adding ID attribute to associated intended linked element.                                      |
+| Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | CSS selectors consolidated beneath semantic elements and refactored to narrow scope of selectors within those elements. |
+| Application's CSS file is properly commented.                                                           | Comments added to separate different parts of the page                                                                  |
 
 ### Deployment
 
