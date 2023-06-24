@@ -8,7 +8,7 @@ This assignment took a starter code package in commit [1e2fe91](https://github.c
 
 The production website is deployed [here](https://0xcryptostefan.github.io/uob-module-01-challenge/).
 
-![Screenshot of deployed webpage](./submission-screenshot.gif)
+![Screenshot of deployed webpage](./0xcryptostefan.github.io_uob-module-01-challenge_.jpg)
 
 ## Requirements
 
