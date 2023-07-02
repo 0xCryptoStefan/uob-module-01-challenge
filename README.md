@@ -4,9 +4,9 @@
 
 Submission for Module 1 of the University of Birmingham Skills Bootcamp in Front-End Web Development &amp; UX
 
-This assignment took a starter code package in commit [1e2fe91](https://github.com/0xCryptoStefan/uob-module-01-challenge/commit/1e2fe9133293ea3371d588dd2e41bbb530bbb084) and developed it to meet the defined acceptance criteria to improve the accessibility of the website.
+This assignment took a starter code package in commit [1e2fe91](https://github.com/Stefan4D/uob-module-01-challenge/commit/1e2fe9133293ea3371d588dd2e41bbb530bbb084) and developed it to meet the defined acceptance criteria to improve the accessibility of the website.
 
-The production website is deployed [here](https://0xcryptostefan.github.io/uob-module-01-challenge/).
+The production website is deployed [here](https://stefan4d.github.io/uob-module-01-challenge/).
 
 ![Screenshot of deployed webpage](./0xcryptostefan.github.io_uob-module-01-challenge_.jpg)
 
@@ -56,12 +56,12 @@ In completing this challenge exercise, I made use of the following resources:
 
 ### Deployment
 
-| Item                                              | Evidence                                                                                |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Application deployed at live URL.                 | Live application deployed at: https://0xcryptostefan.github.io/uob-module-01-challenge/ |
-| Application loads with no errors.                 | No visual defects <br /> No console errors                                              |
-| Application GitHub URL submitted.                 | URL submitted                                                                           |
-| GitHub repository that contains application code. | This repository contains all code.                                                      |
+| Item                                              | Evidence                                                                          |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Application deployed at live URL.                 | Live application deployed at: https://stefan4d.github.io/uob-module-01-challenge/ |
+| Application loads with no errors.                 | No visual defects <br /> No console errors                                        |
+| Application GitHub URL submitted.                 | URL submitted                                                                     |
+| GitHub repository that contains application code. | This repository contains all code.                                                |
 
 ### Application Quality
 
